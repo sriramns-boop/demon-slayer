@@ -1,0 +1,7 @@
+{
+  "name": "Demon Slayer Arc",
+  "description": "Anime 3D Action RPG & Design System concept for Demon Slayer: Blade of the Night with complete HUD, combat controls, boss phases, inventory, skill tree, and UI showcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
